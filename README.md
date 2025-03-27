@@ -106,13 +106,14 @@ Thanks for understanding as I continue to grow as a developer!
 
 **Talk! but Carefully** - A dynamic, family game with multiple team settings options, and sound effects: [GitHub Repo](https://github.com/AlexanderRavenscroft/talk_but_carefully_app)
 
+**Wordle** - A minimal wordle game with API word fetching: [GitHub Repo](https://github.com/AlexanderRavenscroft/wordle_app)
+
 ---
 
 ## **Connect with Me**
 Email: alex.ravenscroft.dev@gmail.com
 
-Fiver: Coming soon! (Stay tuned)
-
+Fiver: https://www.fiverr.com/alexander_raven
 
 
 
